@@ -1,0 +1,34 @@
+{
+  "name": "pepabo-marketplace",
+  "owner": {
+    "name": "GMO Pepabo, Inc.",
+    "url": "https://github.com/pepabo"
+  },
+  "metadata": {
+    "description": "GMOペパボの Claude Code プラグインマーケットプレイス",
+    "version": "1.0.0"
+  },
+  "plugins": [
+    {
+      "name": "pepabo",
+      "source": "./plugins/pepabo",
+      "description": "GMOペパボの企業情報・技術文化・サービス・採用情報のナレッジベース",
+      "version": "1.0.0",
+      "author": {
+        "name": "yukyu"
+      },
+      "keywords": ["pepabo", "gmo", "recruitment", "knowledge"],
+      "category": "knowledge"
+    },
+    {
+      "name": "suzuri-api",
+      "source": "./plugins/suzuri-api",
+      "description": "SUZURI REST APIの認証・リソース構造・実装パターンのリファレンス",
+      "version": "1.0.0",
+      "author": {
+        "name": "yukyu"
+      },
+      "keywords": ["suzuri", "api", "rest-api", "print-on-demand", "gmo-pepabo"]
+    }
+  ]
+}
