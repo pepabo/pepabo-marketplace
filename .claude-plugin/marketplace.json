@@ -28,7 +28,8 @@
       "author": {
         "name": "yukyu"
       },
-      "keywords": ["suzuri", "api", "rest-api", "print-on-demand", "gmo-pepabo"]
+      "keywords": ["suzuri", "api", "rest-api", "print-on-demand", "gmo-pepabo"],
+      "category": "api-reference"
     }
   ]
 }

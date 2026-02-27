@@ -14,9 +14,10 @@ pepabo-marketplace/
 │   ├── pepabo/             # ペパボナレッジプラグイン
 │   │   ├── .claude-plugin/
 │   │   │   └── plugin.json
-│   │   └── agents/
-│   │       ├── pepabo-guide.md
-│   │       └── pages-index.md
+│   │   └── skills/
+│   │       └── pepabo-guide/
+│   │           ├── SKILL.md
+│   │           └── pages-index.md
 │   └── suzuri-api/         # SUZURI APIガイドプラグイン
 │       ├── .claude-plugin/
 │       │   └── plugin.json

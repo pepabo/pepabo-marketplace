@@ -363,7 +363,7 @@
 **パラメータ:**
 | 名前 | 型 | 説明 |
 |------|-----|------|
-| anonymouse | boolean | 匿名かどうか |
+| anonymouse | boolean | 匿名かどうか（API側のtypoでanonymouseが正しいキー名） |
 | count | integer | 数（最大100） |
 
 #### DELETE /api/v1/products/{product_id}/favorites
