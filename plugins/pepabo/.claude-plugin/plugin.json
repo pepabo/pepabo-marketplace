@@ -1,0 +1,11 @@
+{
+  "name": "pepabo",
+  "version": "1.0.0",
+  "description": "GMOペパボの企業情報・技術文化・サービス・採用情報のナレッジベース",
+  "author": {
+    "name": "yukyu"
+  },
+  "license": "MIT",
+  "keywords": ["pepabo", "gmo", "recruitment", "knowledge"],
+  "skills": "./skills/"
+}
