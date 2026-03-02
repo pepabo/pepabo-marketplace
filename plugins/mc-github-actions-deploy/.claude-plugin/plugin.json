@@ -1,0 +1,9 @@
+{
+  "name": "mc-github-actions-deploy",
+  "version": "1.0.0",
+  "description": "GitHub Actionsからロリポップ！マネージドクラウドへの自動デプロイワークフローを生成するプラグイン",
+  "author": {
+    "name": "kenchan"
+  },
+  "keywords": ["lolipop", "managed-cloud", "github-actions", "deploy", "ci-cd"]
+}

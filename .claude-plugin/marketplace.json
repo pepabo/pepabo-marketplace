@@ -6,9 +6,20 @@
   },
   "metadata": {
     "description": "GMOペパボの Claude Code プラグインマーケットプレイス",
-    "version": "1.0.0"
+    "version": "1.1.0"
   },
   "plugins": [
+    {
+      "name": "mc-github-actions-deploy",
+      "source": "./plugins/mc-github-actions-deploy",
+      "description": "GitHub Actionsからロリポップ！マネージドクラウドへの自動デプロイワークフローを生成するプラグイン",
+      "version": "1.0.0",
+      "author": {
+        "name": "kenchan"
+      },
+      "keywords": ["lolipop", "managed-cloud", "github-actions", "deploy", "ci-cd"],
+      "category": "deploy"
+    },
     {
       "name": "pepabo",
       "source": "./plugins/pepabo",
