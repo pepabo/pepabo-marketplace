@@ -6,9 +6,20 @@
   },
   "metadata": {
     "description": "GMOペパボの Claude Code プラグインマーケットプレイス",
-    "version": "1.0.0"
+    "version": "1.1.0"
   },
   "plugins": [
+    {
+      "name": "lolipop-deploy",
+      "source": "./plugins/lolipop-deploy",
+      "description": "ロリポップ！レンタルサーバーへWebサイトやアプリをSSH経由で自動デプロイするスキル",
+      "version": "1.0.0",
+      "author": {
+        "name": "yukyu"
+      },
+      "keywords": ["lolipop", "deploy", "hosting", "ssh", "rsync", "gmo-pepabo"],
+      "category": "deployment"
+    },
     {
       "name": "pepabo",
       "source": "./plugins/pepabo",

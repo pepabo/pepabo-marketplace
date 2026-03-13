@@ -1,0 +1,10 @@
+{
+  "name": "lolipop-deploy",
+  "version": "1.0.0",
+  "description": "ロリポップ！レンタルサーバーへWebサイトやアプリをSSH経由で自動デプロイするスキル",
+  "author": {
+    "name": "pepabo"
+  },
+  "keywords": ["lolipop", "deploy", "hosting", "ssh", "rsync", "gmo-pepabo"],
+  "skills": "./skills/"
+}
