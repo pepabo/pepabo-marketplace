@@ -1,0 +1,15 @@
+{
+  "name": "muumuu-domain",
+  "version": "1.0.0",
+  "description": "ムームードメインMCPサーバー連携 - ドメイン管理・DNS操作をAIツールから実行",
+  "author": {
+    "name": "yukyu"
+  },
+  "keywords": ["muumuu-domain", "domain", "dns", "mcp", "oauth", "gmo-pepabo"],
+  "mcpServers": {
+    "muumuu-domain": {
+      "type": "http",
+      "url": "https://mcp.muumuu-domain.com/mcp"
+    }
+  }
+}
