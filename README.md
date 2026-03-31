@@ -17,7 +17,12 @@ Claude Codeで以下を実行:
 ```
 /plugin install pepabo@pepabo-marketplace
 /plugin install suzuri-api@pepabo-marketplace
-/plugin install muumuu-domain@pepabo-marketplace
+```
+
+MCP連携:
+
+```
+/plugin install muumuu-domain-mcp@pepabo-marketplace
 ```
 
 ### 3. Claude Codeを再起動
@@ -44,9 +49,11 @@ SUZURI REST APIを使ったアプリケーション構築ガイド。
 |------|------|------|
 | スキル | `suzuri-api` | APIの認証、リソース構造、実装パターンをまとめたナレッジベース |
 
-### muumuu-domain
+## MCP連携
 
-[ムームードメイン MCPサーバー](https://muumuu-domain.com/muumuu-domain-mcp)連携プラグイン。インストールすると、AIツールからドメイン管理やDNS操作が可能になります。
+### muumuu-domain-mcp
+
+[ムームードメイン MCPサーバー](https://muumuu-domain.com/muumuu-domain-mcp)連携。インストールすると、AIツールからドメイン管理やDNS操作が可能になります。
 
 | 種別 | 説明 |
 |------|------|

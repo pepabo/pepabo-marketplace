@@ -21,8 +21,8 @@
       "category": "deployment"
     },
     {
-      "name": "muumuu-domain",
-      "source": "./plugins/muumuu-domain",
+      "name": "muumuu-domain-mcp",
+      "source": "./mcps/muumuu-domain-mcp",
       "description": "ムームードメインMCPサーバー連携 - ドメイン管理・DNS操作をAIツールから実行",
       "version": "1.0.0",
       "author": {

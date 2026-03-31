@@ -1,5 +1,5 @@
 {
-  "name": "muumuu-domain",
+  "name": "muumuu-domain-mcp",
   "version": "1.0.0",
   "description": "ムームードメインMCPサーバー連携 - ドメイン管理・DNS操作をAIツールから実行",
   "author": {
