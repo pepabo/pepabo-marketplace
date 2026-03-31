@@ -5,11 +5,5 @@
   "author": {
     "name": "yukyu"
   },
-  "keywords": ["muumuu-domain", "domain", "dns", "mcp", "oauth", "gmo-pepabo"],
-  "mcpServers": {
-    "muumuu-domain": {
-      "type": "http",
-      "url": "https://mcp.muumuu-domain.com/mcp"
-    }
-  }
+  "keywords": ["muumuu-domain", "domain", "dns", "mcp", "oauth", "gmo-pepabo"]
 }
