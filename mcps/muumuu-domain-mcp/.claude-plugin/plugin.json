@@ -1,0 +1,9 @@
+{
+  "name": "muumuu-domain-mcp",
+  "version": "1.0.0",
+  "description": "ムームードメインMCPサーバー連携 - ドメイン検索・購入、保有ドメイン管理、DNSレコード操作、契約管理",
+  "author": {
+    "name": "muumuu-domain"
+  },
+  "keywords": ["muumuu-domain", "domain", "dns", "mcp", "oauth", "gmo-pepabo"]
+}

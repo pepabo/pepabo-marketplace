@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "muumuu-domain": {
+      "type": "http",
+      "url": "https://mcp.muumuu-domain.com/mcp"
+    }
+  }
+}
