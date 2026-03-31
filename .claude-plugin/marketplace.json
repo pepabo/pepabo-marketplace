@@ -23,7 +23,7 @@
     {
       "name": "muumuu-domain-mcp",
       "source": "./mcps/muumuu-domain-mcp",
-      "description": "ムームードメインMCPサーバー連携 - ドメイン管理・DNS操作をAIツールから実行",
+      "description": "ムームードメインMCPサーバー連携 - ドメイン検索・購入、保有ドメイン管理、DNSレコード操作、契約管理",
       "version": "1.0.0",
       "author": {
         "name": "muumuu-domain"
