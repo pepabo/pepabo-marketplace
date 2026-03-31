@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "ムームードメインMCPサーバー連携 - ドメイン管理・DNS操作をAIツールから実行",
   "author": {
-    "name": "yukyu"
+    "name": "muumuu-domain"
   },
   "keywords": ["muumuu-domain", "domain", "dns", "mcp", "oauth", "gmo-pepabo"]
 }
